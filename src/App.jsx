@@ -1,7 +1,10 @@
+import User1 from "./passingWithContextAPI/User1";
+// import Child from "./propdrilling/Child";
+
 function App() {
   return (
     <>
-      <h1>REDUX</h1>
+      <User1/>
     </>
   );
 }
