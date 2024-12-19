@@ -11,10 +11,11 @@
 
 +++++++++++++++++++++++++++++++++++++ STEPS FOR SETUP +++++++++++++++++++++++++++++++++++++
 
-1. 
-2. 
-3. 
-4. 
+1. Create a STORE
+2. Wrap the App.jsx or any component by using PROVIDER from react redux and pass the STORE as an
+attribute.
+3. Create a redux slice.
+4. Slice => name, iniitalState , REDUCER => ACTIONS
 5.
 6. 
 
